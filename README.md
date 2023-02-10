@@ -6,7 +6,7 @@
 ## Me chamo Aderson da Cruz Carvalho
 ![From Campo Mourão, Brazil](https://img.shields.io/badge/-From%20Campo%20Mourão,%20Paraná%20--%20Brazil-333333?style=flat&logo=brazil)
 
-### 🌱 Concluí em 2023 o curso de Progrmador de Sistema do SENAC Campo Mourão.
+### 🌱 Concluí em 2023 o curso de Programador de Sistema do SENAC Campo Mourão.
 
 ### 🤔 Busco oportunidade para aprender como desenvolvedor.
 
