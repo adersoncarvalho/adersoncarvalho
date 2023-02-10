@@ -12,10 +12,14 @@
 
 ## 📌&nbsp; Conhecimento
 
- ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=JavaScript)
+ - ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=JavaScript)
  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
  
+ 
+ ## 📫 Como chegar até mim:
+ 
+ <a href="mailto:aderson_carvalho@hotmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-aderson_carvalho@hotmail.com-blue?style=flat-square&logo=gmail"></a>
 
 <!--
 **adersoncarvalho/adersoncarvalho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
